@@ -1,0 +1,7 @@
+{
+  "name": "devdacticPass",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
